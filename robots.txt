@@ -1,0 +1,5 @@
+user-agent: *
+
+allow: /
+disallow: /generic
+Sitemap: https://rachaelsinternational.com/sitemap.xml
